@@ -1,0 +1,3 @@
+http://www.coderanch.com/t/536268/GUI/java/creating-application-similar-ms-paint
+http://forum.codecall.net/topic/58137-java-mini-paint-program/
+http://www.codeproject.com/Questions/479266/createplusPaintplusprogramplususingplusJAVA
